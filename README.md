@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

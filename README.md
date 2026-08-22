@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

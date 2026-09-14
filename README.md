@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0189-rotate-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

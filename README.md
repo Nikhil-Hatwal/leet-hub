@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1903-largest-odd-number-in-string) |

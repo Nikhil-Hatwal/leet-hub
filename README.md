@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

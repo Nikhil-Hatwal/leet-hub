@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -169,8 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

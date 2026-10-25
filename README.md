@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -190,4 +193,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

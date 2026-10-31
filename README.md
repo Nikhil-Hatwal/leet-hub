@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/1539-kth-missing-positive-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhil-Hatwal/leet-hub/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
